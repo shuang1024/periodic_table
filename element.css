@@ -31,7 +31,7 @@ h1 {
 }
 
 button {
-    cursor:pointer;
+    cursor: pointer;
     border: none;
 }
 
@@ -117,10 +117,10 @@ button {
 
 .info {
     color: #dddddd;
-    width: 960px;
+    background-color: #222222;
+    width: 50%;
     height: 50px;
-    margin-left: auto;
-    margin-right: auto;
+    margin: auto;
     font-size: 25px
 }
 
