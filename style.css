@@ -20,6 +20,7 @@ p {
     font-size: 77%;
     margin: 0px;
     padding: 0px;
+    transform: scaleX(1.2);
 }
 
 h1 {
