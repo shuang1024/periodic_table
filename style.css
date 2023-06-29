@@ -28,6 +28,10 @@ h1 {
     text-align: center;
 }
 
+button {
+    cursor:pointer;
+}
+
 .non {
     border: solid  #2a4165 3px;
     background-color: #2a4165;
