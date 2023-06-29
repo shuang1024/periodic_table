@@ -1,0 +1,130 @@
+html {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+}
+
+body {
+    background-color: #222222;
+}
+
+td {
+    width: 106px;
+    height: 31.67px;
+    border-radius: 5px;
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+}
+
+p {
+    color: #dddddd;
+    font-size: 50%;
+    margin: 0px;
+    padding: 0px;
+    transform: scaleX(1.2);
+}
+
+h1 {
+    font-size: 100px;
+    color: #dddddd;
+    text-align: center;
+}
+
+button {
+    cursor:pointer;
+    border: none;
+}
+
+.current {
+    border: dashed white 2px;
+}
+
+.non {
+    background-color: #2a4165;
+}
+
+.noble {
+    background-color: #623842;
+}
+
+.alkali {
+    background-color: #244d57;
+}
+
+.alkaline {
+    background-color: #622e39;
+}
+
+.metalloids {
+    background-color: #523e1b;
+}
+
+.trans {
+    background-color: #433c65;
+}
+
+.post-trans {
+    background-color: #2f4d47;
+}
+
+.lanth {
+    background-color: #004a77;
+}
+
+.acts {
+    background-color: #613b28;
+}
+
+.unknown {
+    background-color: #46474c;
+}
+
+.gas {
+    color: #ff0000;
+    font-size: 30px;
+    margin: 0px;
+    margin-top: 0px;
+    margin-bottom: 1px;
+    transform: scaleX(0.9);
+}
+
+.solid {
+    color: #dddddd;
+    font-size: 30px;
+    margin: 0px;
+    margin-top: 0px;
+    margin-bottom: 1px;
+    transform: scaleX(0.9);
+}
+
+.liquid {
+    color: #00b7ff;
+    font-size: 30px;
+    margin: 0px;
+    margin-top: 0px;
+    margin-bottom: 1px;
+    transform: scaleX(0.9);
+}
+
+.synthetic {
+    color: #ffff00;
+    font-size: 30px;
+    margin: 0px;
+    margin-top: 0px;
+    margin-bottom: 1px;
+    transform: scaleX(0.9);
+}
+
+.info {
+    color: #dddddd;
+    width: 960px;
+    height: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 25px
+}
+
+.spacer {
+    width: 53px;
+    height: 53px;
+}
