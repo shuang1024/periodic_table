@@ -124,6 +124,17 @@ button {
     font-size: 25px
 }
 
+.nav {
+    color: #dddddd;
+    background-color: #222222;
+    width: 50%;
+    height: 50px;
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-size: 35px
+}
+
 .spacer {
     width: 53px;
     height: 53px;
